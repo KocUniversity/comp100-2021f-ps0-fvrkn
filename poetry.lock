@@ -1,0 +1,18 @@
+[[package]]
+name = "pylab-sdk"
+version = "1.3.2"
+description = "A development kit that collects simple utilities."
+category = "main"
+optional = false
+python-versions = ">=3"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "5a1c8938469e3b64f30787c57dc91afd3174075cf60e553c91239456b631a954"
+
+[metadata.files]
+pylab-sdk = [
+    {file = "pylab-sdk-1.3.2.tar.gz", hash = "sha256:ea53e97fec45ea15f65bd53da6b25dc16a9accf3a7f5decbaa970592d760148d"},
+    {file = "pylab_sdk-1.3.2-py3-none-any.whl", hash = "sha256:a6784769f3cb4626f732ff22f0ad88a470c4ab294e1c52f82f5167bc27f9be46"},
+]
